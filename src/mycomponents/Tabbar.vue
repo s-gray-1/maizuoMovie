@@ -37,7 +37,6 @@ import '../assets/iconfont/iconfont.css'
 export default {
   methods: {
     goICP () {
-      console.log('111')
       window.open('https://beian.miit.gov.cn/')
     }
   }
